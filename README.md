@@ -7,12 +7,6 @@ Proficient in various programming languages with passion for developing scalable
 opportunity to join a team with exciting software projects that have potential for great impact and professional
 development.
 
-💻 Proficient in Java, Python, C++, and more.
-
-🌐 Passionate about software.
-
-📚 CS Student at Western Carolina University (Graduating Dec 2026).
-
 
 ## 🎓 Education
 
