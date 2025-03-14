@@ -16,14 +16,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmawi-a-Negatu&layout=compact&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)  
 
 
-## 📫 Contact
 
-- **Email**: dagmawi.negatu@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
