@@ -16,13 +16,14 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
 
-## 🚀 Startup Project
 
 ### [VibeTune](https://github.com/d-negatu/vibetune)
 - **Description**: A dynamic web application that connects people through music.
 - **Technologies**: JavaScript, CSS, HTML, React, Google Maps API, Spotify Web API, Node.js, Firebase Firestore
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)  ### [VibeTune](https://github.com/d-negatu/vibetune)
+- **Description**: A dynamic web application that connects people through music.
+- **Technologies**: JavaScript, CSS, HTML, React, Google Maps API, Spotify Web API, Node.js, Firebase Firestore
 
 
 
