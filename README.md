@@ -2,10 +2,7 @@
 
 ## 🚀 About Me
 
-🎯 I'm a student at Western Carolina University wth a background in Computer Science and Mathematics.
-Proficient in various programming languages with passion for developing scalable and innovative solutions. Seeking an
-opportunity to join a team with exciting software projects that have potential for great impact and professional
-development.
+🎯 I am a Computer Science and Mathematics student at Western Carolina University, actively seeking opportunities to contribute to salable software projects that has great impact and professional development.
 
 
 ## 🎓 Education
