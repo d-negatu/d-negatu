@@ -2,7 +2,10 @@
 
 ## 🚀 About Me
 
-🎯 Aspiring Software Engineer focused on building scalable systems and innovative solutions.
+🎯 I'm a student at Western Carolina University wth a background in Computer Science and Mathematics.
+Proficient in various programming languages with passion for developing scalable and innovative solutions. Seeking an
+opportunity to join a team with exciting software projects that have potential for great impact and professional
+development.
 
 💻 Proficient in Java, Python, C++, and more.
 
