@@ -1,6 +1,6 @@
-##  Hello World! My name is Dagmawi Negatu, and I am a Computer Science and Mathematics student at Western Carolina University.
+##  Hello World! My name is Dagmawi Negatu, and I am a Computer Science and Mathematics student Seeking to join exciting software projects that has great impact and proffestional development.
 
-- **Western Carolina University** - Bachelor of Science in Computer Science (Expected Graduation: Dec 2026)
+- **Western Carolina University** - Bachelor of Science in Computer Science and Mathematics (Expected Graduation: Dec 2026)
 
 [//]: # (Languages)
 <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
