@@ -21,7 +21,7 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawiNegatu?theme=dark&font=Consolas&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
 
 
 ## 🧩 Contributions
