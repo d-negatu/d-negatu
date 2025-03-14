@@ -20,7 +20,7 @@
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmawi-a-Negatu&layout=compact&theme=radical)
 
 
 ## 📫 Contact
