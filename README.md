@@ -16,13 +16,13 @@ Languages: Java, Python, C++, C#, JavaScript, PHP, Ruby, Scala, Swift, AssemblyF
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical)
 🌍 Languages Used (All Repos)
-![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=your-username&theme=radical)
+![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
 
 🧩 Contribution Graph
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=radical)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dagmawi-a-Negatu&theme=radical)
 
 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-bg=true&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
 
 📊 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmawi-a-Negatu&layout=compact&theme=radical)
