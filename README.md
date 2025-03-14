@@ -1,4 +1,4 @@
-##  Hello World! My name is Dagmawi, and I am a Computer Science and Mathematics student at Western Carolina University.
+##  Hello World! My name is Dagmawi Negatu, and I am a Computer Science and Mathematics student at Western Carolina University.
 
 ## 🎓 Education
 
