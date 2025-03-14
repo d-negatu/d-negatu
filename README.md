@@ -6,42 +6,15 @@
 
 💻 Proficient in Java, Python, C++, and more.
 
-🌐 Passionate about software and building things.
+🌐 Passionate about software.
 
-📚 CS Student at Western Carolina University (Graduating May 2026).
+📚 CS Student at Western Carolina University (Graduating Dec 2026).
 
-## 🛠️ Tech Stack
-
-**Languages**: 
-- Java, Python, C++, C#, JavaScript, PHP, Ruby, Scala, Swift, Assembly
-
-**Frameworks**: 
-- Spring Boot, React, Node.js, Flask
-
-**Databases**: 
-- PostgreSQL, MongoDB, Firebase
-
-**Tools**: 
-- Docker, Kubernetes, RabbitMQ
-
-## 🌟 Projects
-
-### [Project Name](link-to-repo)
-- **Description**: Brief description of the project.
-- **Tech Stack**: List of technologies used.
-
-### [Another Project](link-to-repo)
-- **Description**: Brief description of the project.
-- **Tech Stack**: List of technologies used.
 
 ## 🎓 Education
 
 - **Western Carolina University** - Bachelor of Science in Computer Science (Expected Graduation: May 2026)
 
-## 🏆 Achievements
-
-- **Certifications**: List any relevant certifications.
-- **Awards**: List any awards or recognitions.
 
 ## 📈 GitHub Stats
 
