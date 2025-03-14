@@ -1,4 +1,4 @@
-## 👋  Hello World! I'm Dagmawi! I am a Computer Science and Mathematics student at Western Carolina University.
+##  Hello World! I'm Dagmawi! I am a Computer Science and Mathematics student at Western Carolina University.
 
 ## 🎓 Education
 
