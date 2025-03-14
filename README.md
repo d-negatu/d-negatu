@@ -12,16 +12,15 @@
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
-
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
 
 
 ## 🧩 Contributions
