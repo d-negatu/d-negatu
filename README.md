@@ -23,10 +23,6 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
 
 
-## 🧩 Contributions
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dagmawi-a-Negatu&theme=radical)
-
 ## 📫 Contact
 
 - **Email**: dagmawi.negatu@gmail.com
