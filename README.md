@@ -13,21 +13,22 @@
 <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
-
-## 🧩 Contribution Graph
-
-![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dagmawi-a-Negatu&theme=radical)
-
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
 
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical) ![All Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
+
+
 ## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dagmawi-a-Negatu&layout=compact&theme=radical)
+
+## 🧩 Contribution Graph
+
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dagmawi-a-Negatu&theme=radical)
 
 ## 📫 Contact
 
