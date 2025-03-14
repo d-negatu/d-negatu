@@ -15,3 +15,7 @@
 Languages: Java, Python, C++, C#, JavaScript, PHP, Ruby, Scala, Swift, AssemblyFrameworks: Spring Boot, React, Node.js, FlaskDatabases: PostgreSQL, MongoDB, FirebaseTools: Docker, Kubernetes, RabbitMQ, OpenAI APIs, Google Maps API
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
