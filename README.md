@@ -1,9 +1,4 @@
-## 👋  Hello World! I'm Dagmawi!
-
-## 🚀 About Me
-
-🎯 I am a Computer Science and Mathematics student at Western Carolina University, actively seeking opportunities to contribute to salable software projects that has great impact and professional development.
-
+## 👋  Hello World! I'm Dagmawi! I am a Computer Science and Mathematics student at Western Carolina University, actively seeking opportunities to contribute to salable software projects that has great impact and professional development.
 
 ## 🎓 Education
 
