@@ -31,5 +31,5 @@
 
 ## 📫 Contact
 
-- **Email**: your-email@example.com
+- **Email**: dagmawi.negatu@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
