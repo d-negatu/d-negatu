@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western Carolina University. I'm passionate about building tools that serve real end users and solving complex problems.   
+I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western Carolina University, and I'm passionate about solving complex problems and building tools that serve real end users.   
 
 
 
