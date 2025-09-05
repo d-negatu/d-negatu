@@ -25,10 +25,10 @@ I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western 
 
 ## 📈 GitHub & Coding Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dagmawi-a-Negatu&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dagmawi-a-Negatu&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Dagmawi-a-Negatu&theme=radical&no-bg=true&no-frame=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-negatu&show_icons=true&theme=radical&count_private=true)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-negatu&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/d-negatu?theme=dark&font=Consolas&ext=heatmap)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=d-negatu&theme=radical&no-bg=true&no-frame=true)
 
 ---
 
