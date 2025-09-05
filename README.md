@@ -27,38 +27,9 @@ I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-negatu&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-negatu&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=d-negatu&theme=radical&no-bg=true&no-frame=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
 
----
-
-## 🚀 Featured Projects
-
-### [VibeTune](https://github.com/d-negatu/vibetune)
-A **dynamic web application** that connects people through music. Users can search tracks, explore playlists, and interact in real-time.  
-
-**Technologies**: JavaScript, React, CSS, HTML, Google Maps API, Spotify Web API, Node.js, Firebase Firestore  
-
----
-
-### [SyncMaps](https://github.com/Dagmawi-a-Negatu/Sync-Maps)
-A **real-time collaborative mapping platform** integrating AI chat and Spotify heatmaps to guide users for trips and events.  
-
-**Technologies**: React, Node.js, Firebase, WebSockets, Google Maps API, Spotify API  
-
----
-
-### [RubberDocker](https://github.com/Dagmawi-a-Negatu/RubberDocker)
-A **lightweight container orchestration system** built to manage and scale Docker containers efficiently.  
-
-**Technologies**: Go, Docker, Kubernetes  
-
----
-
-### [NAND2TETRIS Projects](https://github.com/Dagmawi-a-Negatu/NAND2TETRIS)
-Implementations of **computer architecture and OS-level projects**, building from NAND gates to a working Tetris game.  
-
-**Technologies**: Java, C, HDL  
 
 ---
 
@@ -71,9 +42,9 @@ Implementations of **computer architecture and OS-level projects**, building fro
 ---
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/dagmawi-negatu/)  
+- [LinkedIn](https://www.linkedin.com/in/danegatu)  
 - [Portfolio](https://dnegatu.dev) (if you have one)  
-- [Email](mailto:dagmawi.negatu@gmail.com)  
+- [Email](dagmawi.negatu@gmail.com)  
 
 ---
 
