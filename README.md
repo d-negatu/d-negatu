@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western Carolina University, and I'm passionate about solving complex problems and building tools that serve real end users.   
+I am a Computer Science, Mathematics, and Cybersecurity student at Western Carolina University. I am passionate about solving complex problems, designing scalable systems, and creating tools that serve users.
 
 
 
@@ -33,10 +33,9 @@ I am a **Computer Science, Mathematics, and Cyber Secruity student** at Western 
 ---
 
 ## 🌱 What I’m Learning
-- Advanced AI/ML integration with APIs  
-- Optimized backend microservices  
-- Rust & Go for high-performance systems  
-- Scalable full-stack architectures  
+- Desktop Application and mobile application development.
+- REST APIs, low level systems, pefomrance optimization (Go).   
+- Scalable distributed systems and pipelines for AI/ML applications.
 
 ---
 
