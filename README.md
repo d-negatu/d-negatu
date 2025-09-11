@@ -44,10 +44,10 @@ I am a third-year student at Western Carolina University with a background in Co
 
 ---
 
-## 🌱 What I’m Learning
-- Desktop Application and mobile application development.
-- REST APIs, low level systems, pefomrance optimization (Go).   
-- Scalable distributed systems and pipelines for AI/ML applications.
+## 🌱 What I’m up to
+- Building TensorBrain, a PyTorch-like deep learning framework (autograd, distributed training, quantization, serving).
+- Reimplementing, desinging, testing and scalaling VibeTune to end to end users ( REST APIs, external APIs, distrubted pipelines, etc..)
+- Learning systems-level programming, operating systems, and Large Language Models tranining on distrubted GPUs.
 
 ---
 
