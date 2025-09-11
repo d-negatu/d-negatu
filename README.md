@@ -31,6 +31,8 @@ I am a third-year student at Western Carolina University with a background in Co
 <img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 
+
+
 ---
 
 ## 📈 GitHub & Coding Stats
