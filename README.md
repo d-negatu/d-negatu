@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a third-year Computer Science, Mathematics, and Cybersecurity student at Western Carolina University. I am very passionate about solving complex problems, building scalable systems, designing AI systems, and creating end to end tools that serve users.
+I am a third-year student at Western Carolina University with a background in Computer Science, Mathematics, and Cyber Secruity. I am passionate about solving complex problems and desinging scalace software systems. Seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
 
 
 
