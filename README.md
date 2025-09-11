@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a Computer Science, Mathematics, Cyber Security student with a backgournd in systems programming, distrubted systems, and deep learning. I am a growing engineer passionate about solving complex problems and building tools that serve end to end users. Seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
+I am a Computer Science, Mathematics, Cyber Security student with a backgournd in systems programming, distrubted systems, and deep learning. I am a growing engineer passionate about solving complex problems and building tools that serve users. Seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
 
 ## Tech Stack
 
