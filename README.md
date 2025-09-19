@@ -39,7 +39,6 @@ I am a Computer Science, Mathematics, Cyber Security student with a backgournd i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-negatu&show_icons=true&theme=radical&count_private=true)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-negatu&theme=radical)
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
 
 
 ---
@@ -48,6 +47,8 @@ I am a Computer Science, Mathematics, Cyber Security student with a backgournd i
 - Building TensorBrain, a PyTorch-like deep learning framework (autograd, distributed training, quantization, serving).
 - Reimplementing, desinging, testing and scalaling VibeTune to end to end users ( REST APIs, external APIs, distrubted pipelines, etc..)
 - Learning systems-level programming, operating systems, and Large Language Models tranining on 2 GPUs.
+- Preparing for technical interviews. 
+![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
 
 ---
 
