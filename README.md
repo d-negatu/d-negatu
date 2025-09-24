@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a Computer Science, Mathematics, Cyber Security student with a backgournd in systems programming, distrubted systems, and deep learning. I am a growing engineer passionate about solving complex problems and building tools that serve users. Seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
+I am a junior Computer Science, Mathematics, and Cyber Security student at Western Carolina University. I am seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
 
 ## Tech Stack
 
@@ -45,10 +45,9 @@ I am a Computer Science, Mathematics, Cyber Security student with a backgournd i
 
 ## 🌱 What I’m up to
 - Building TensorBrain, a PyTorch-like deep learning framework (autograd, distributed training, quantization, serving).
-- Reimplementing, desinging, testing and scalaling VibeTune to end to end users ( REST APIs, external APIs, distrubted pipelines, etc..)
-- Learning systems-level programming, operating systems, and Large Language Models tranining on 2 GPUs.
-- Preparing for technical interviews. 
-![LeetCode Stats](https://leetcard.jacoblin.cool/DagmawNegatu?theme=dark&font=Consolas&ext=heatmap)
+- Reimplementing, Redesinging, testing and scaling VibeTune end to end ( REST APIs, external APIs, distrubted pipelines, etc..)
+- Learning systems-level programming, operating systems, and Large Language Model tranining on 2 GPUs.
+
 
 ---
 
