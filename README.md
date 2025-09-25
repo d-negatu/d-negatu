@@ -32,14 +32,6 @@ I’m a junior at Western Carolina University studying Computer Science, Mathema
 
 
 
-
----
-
-## 📈 GitHub & Coding Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-negatu&show_icons=true&theme=radical&count_private=true)
-
-
 ---
 
 ## What I’m up to
