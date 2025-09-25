@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a junior Computer Science, Mathematics, and Cyber Security student at Western Carolina University. I am seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
+I am a junior Computer Science, Mathematics, and Cyber Security student at Western Carolina University. I am actively seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
 
 ## Tech Stack
 
@@ -38,12 +38,11 @@ I am a junior Computer Science, Mathematics, and Cyber Security student at Weste
 ## 📈 GitHub & Coding Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d-negatu&show_icons=true&theme=radical&count_private=true)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=d-negatu&theme=radical)
 
 
 ---
 
-## 🌱 What I’m up to
+## What I’m up to
 - Building TensorBrain, a PyTorch-like deep learning framework (autograd, distributed training, quantization, serving).
 - Reimplementing, Redesinging, testing and scaling VibeTune end to end ( REST APIs, external APIs, distrubted pipelines, etc..)
 - Learning systems-level programming, operating systems, and Large Language Model tranining on 2 GPUs.
