@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I am a junior Computer Science, Mathematics, and Cyber Security student at Western Carolina University. I am actively seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.
+I am a junior Computer Science, Mathematics, and Cyber Security student at Western Carolina University with a background in software engineering. As such, I am passionate about working in all areas of the stack. t I am actively seeking an opportunity to join a team with exciting software projects that have potential for great impact and professional development.uch
 
 ## Tech Stack
 
