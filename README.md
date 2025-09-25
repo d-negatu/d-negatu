@@ -1,6 +1,6 @@
 ## 👋 Hello, I’m Dagmawi Negatu
 
-I’m a junior at Western Carolina University studying Computer Science, Mathematics, and Cybersecurity with a strong background in software engineering. I’m passionate about working across the stack—from systems level design to scalable cloud applications, and I’m seeking opportunities to join a team tackling complex software challenges where I can contribute and grow.
+I’m a junior at Western Carolina University studying Computer Science, Mathematics, and Cybersecurity with a strong background in software engineering. I’m passionate about working across the stack—from systems level design to scalable cloud applications, and I’m seeking opportunities to join a team working on complex software challenges where I can contribute and grow.
 
 ## Tech Stack
 
