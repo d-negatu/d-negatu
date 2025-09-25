@@ -31,7 +31,7 @@ I’m a junior at Western Carolina University studying Computer Science, Mathema
 <img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
 
-
+---
 ---
 
 ## What I’m up to
