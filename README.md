@@ -2,15 +2,15 @@
 
 **Full-Stack Software Engineer | AI/ML Research Engineer | Computer Science Student**
 
-I'm a junior Computer Science student at Western Carolina University with a passion for building scalable, end-to-end systems. I have a strong across the full software stack with a growing interest in Artificial Intelligence. 
+I'm a junior Computer Science student at Western Carolina University with a passion for building scalable and end-to-end systems. I have a strong foundation across the full software stack with a growing interest in Artificial Intelligence. 
 
-### 🎯 What I Do
-- **Build production-grade software** spanning system design, backend APIs, distributed systems, and frontend applications
+### What I Do
+- **Build production-grade software** interwining system design, backend APIs, distributed systems, and frontend applications
 - **Research and implement AI/ML algorithms** including deep learning frameworks, neural networks, and GPU-accelerated training
 - **Design scalable architectures** using microservices, containerization, and cloud infrastructure
 - **Contribute to open-source** and create educational resources for complex technical concepts
 
-### 💼 Featured Projects
+### Passionate Projects
 
 🧠 **[TensorBrain](https://github.com/d-negatu/tensorBrain)** - PyTorch-like Deep Learning Framework
 - Built a production-grade deep learning framework from scratch
