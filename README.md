@@ -1,51 +1,77 @@
-## 👋 Hello, I’m Dagmawi Negatu
+## 👋 Hi, I'm Dagmawi Negatu
 
-I’m a junior at Western Carolina University studying Computer Science, Mathematics, and Cybersecurity with a strong background in software engineering. I’m passionate about working across the stack from system design to builildng end to end tools and applications, and I’m activelly seeking opportunities to join a team tackling complex software challenges where I can contribute and grow proffestionally.
+**Full-Stack Software Engineer | AI/ML Researcher | Computer Science Student**
 
-## Tech Stack
+I'm a junior Computer Science student at Western Carolina University with a passion for building scalable, end-to-end systems and advancing AI/ML capabilities. I combine deep technical expertise across the full software stack with a strong foundation in mathematics and cybersecurity.
 
-<img align="left" alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="left" alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img align="left" alt="C" src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="left" alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-<img align="left" alt="Rust" src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="left" alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img align="left" alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img align="left" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img align="left" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img align="left" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img align="left" alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-<img align="left" alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img align="left" alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img align="left" alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
-<img align="left" alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+### 🎯 What I Do
+- **Build production-grade software** spanning system design, backend APIs, distributed systems, and frontend applications
+- **Research and implement AI/ML algorithms** including deep learning frameworks, neural networks, and GPU-accelerated training
+- **Design scalable architectures** using microservices, containerization, and cloud infrastructure
+- **Contribute to open-source** and create educational resources for complex technical concepts
 
+### 💼 Featured Projects
+
+🧠 **[TensorBrain](https://github.com/d-negatu/tensorBrain)** - PyTorch-like Deep Learning Framework
+- Built a production-grade deep learning framework from scratch
+- Features: automatic differentiation (autograd), distributed training, quantization, model serving
+- Stack: Python, NumPy, CUDA
+
+🎵 **[VibeTune](https://github.com/d-negatu/vibetune)** - Full-Stack Music Discovery Platform
+- End-to-end application with REST APIs, external integrations, and distributed pipelines
+- Stack: JavaScript, React, Node.js, external APIs, Docker
+
+📊 **[nanoGPT2](https://github.com/d-negatu/nanoGPT2)** - Minimal GPT-2 Implementation
+- Educational implementation of transformer-based language models
+- Focus on understanding LLM architecture and training dynamics
+- Stack: Python, PyTorch
+
+### 🛠️ Tech Stack
+
+**Languages:** Java | Python | C++ | C# | C | Go | Rust | JavaScript | TypeScript
+
+**AI/ML:** TensorFlow | PyTorch | Autograd | Distributed Training | LLM Fine-tuning
+
+**Backend:** Spring Boot | Node.js | REST APIs | Microservices | System Design
+
+**Frontend:** React | HTML5 | CSS3 | TailwindCSS | Bootstrap
+
+**DevOps & Cloud:** Docker | Kubernetes | AWS | Google Cloud | CI/CD
+
+**Specializations:** Distributed Systems | GPU Computing | ML Infrastructure | Software Architecture
+
+### 📊 GitHub Stats
+- 32 Repositories | 280+ Contributions
+- Actively building projects ranging from system-level programming to AI research
+- Strong focus on code quality, documentation, and scalability
+
+### 🚀 Currently Working On
+- **TensorBrain:** Expanding framework capabilities with advanced optimization techniques
+- **VibeTune Redesign:** Scaling architecture for production with improved performance and reliability
+- **GPU Computing & LLMs:** Deep learning in systems-level programming, distributed training on GPUs
+
+### 📚 Research Interests
+- Deep Learning Architecture & Optimization
+- Distributed Systems & GPU Computing
+- Large Language Models and Transformer Training
+- Systems Programming & Operating Systems
+- ML Infrastructure & Model Serving
+
+### 🎓 Education
+**Western Carolina University**
+- Bachelor of Science (In Progress)
+- Major: Computer Science
+- Minor: Mathematics, Cybersecurity
+- GPA: Strong academic performance with focus on system-level courses
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danegatu)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dagmawi.negatu@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/d-negatu)
 
 ---
----
 
+**Open to opportunities in:** Software Engineering | ML Research | Distributed Systems | Backend Development
 
-## What I’m up to
-- Building TensorBrain, a PyTorch-like deep learning framework (autograd, distributed training, quantization, serving).
-- Reimplementing, Redesinging, testing and scaling VibeTune end to end ( REST APIs, external APIs, distrubted pipelines, etc..)
-- Learning systems-level programming, operating systems, and Large Language Model tranining on GPUs.
-
-
----
-
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/danegatu)  
-- [Email](dagmawi.negatu@gmail.com)  
-
----
-
+_Last updated: October 2025_
