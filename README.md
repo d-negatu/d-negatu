@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Dagmawi Negatu
 
-**Full-Stack Software Engineer | AI/ML Researcher | Computer Science Student**
+**Full-Stack Software Engineer | AI/ML Research Engineer | Computer Science Student**
 
 I'm a junior Computer Science student at Western Carolina University with a passion for building scalable, end-to-end systems and advancing AI/ML capabilities. I combine deep technical expertise across the full software stack with a strong foundation in mathematics and cybersecurity.
 
