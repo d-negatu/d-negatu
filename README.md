@@ -2,7 +2,7 @@
 
 **Full-Stack Software Engineer | AI/ML Research Engineer | Computer Science Student**
 
-I'm a junior Computer Science student at Western Carolina University with a passion for building scalable, end-to-end systems and advancing AI/ML capabilities. I combine deep technical expertise across the full software stack with a strong foundation in mathematics and cybersecurity.
+I'm a junior Computer Science student at Western Carolina University with a passion for building scalable, end-to-end systems. I have a strong across the full software stack with a growing interest in Artificial Intelligence. 
 
 ### 🎯 What I Do
 - **Build production-grade software** spanning system design, backend APIs, distributed systems, and frontend applications
