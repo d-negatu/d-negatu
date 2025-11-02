@@ -5,10 +5,9 @@
 I'm a junior Computer Science student at Western Carolina University with a passion for building scalable and end-to-end systems. I have a strong foundation across the full software stack with a growing interest in Artificial Intelligence. 
 
 ### What I Do
-- **Build production-grade software** interwining system design, backend APIs, distributed systems, and frontend applications
-- **Research and implement AI/ML algorithms** including deep learning frameworks, neural networks, and GPU-accelerated training
-- **Design scalable architectures** using microservices, containerization, and cloud infrastructure
-- **Contribute to open-source** and create educational resources for complex technical concepts
+- Build production-grade software interwining system design, backend APIs, distributed systems, and frontend applications
+- Research and implement deep learning frameworks, neural networks, and GPU-accelerated training
+- Design scalable architectures using microservices, containerization, and cloud infrastructure
 
 ### Passionate Projects
 
@@ -57,12 +56,6 @@ I'm a junior Computer Science student at Western Carolina University with a pass
 - Systems Programming & Operating Systems
 - ML Infrastructure & Model Serving
 
-### 🎓 Education
-**Western Carolina University**
-- Bachelor of Science (In Progress)
-- Major: Computer Science
-- Minor: Mathematics, Cybersecurity
-- GPA: Strong academic performance with focus on system-level courses
 
 ### 📫 Connect With Me
 
