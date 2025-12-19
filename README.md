@@ -36,5 +36,3 @@ I'm a junior Computer Science student at Western Carolina University with a pass
 
 ---
 
-**Open to opportunities in:** Software Engineering | ML Research | Distributed Systems | Backend Development
-
